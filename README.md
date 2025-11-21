@@ -2,7 +2,7 @@
 
 # 📘 Spiral Experiments — README
 
-A clean and well‑structured README for your notebook exploring **non-linear datasets**, **PyTorch models**, and **decision region visualization**.
+A clean and well‑structured README for the notebook exploring **non-linear datasets**, **PyTorch models**, and **decision region visualization**.
 
 ---
 
