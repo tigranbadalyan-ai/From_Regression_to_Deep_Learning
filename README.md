@@ -10,7 +10,7 @@ A clean and well‑structured README for the notebook exploring **non-linear dat
 
 This notebook demonstrates how neural networks learn **non‑linear patterns** using the classic **spiral dataset**. It mirrors the content from **Lesson 1** — going from simple regression intuition to deep learning experiments.
 
-You will:
+We will:
 
 * Generate a custom 2D spiral dataset
 * Train PyTorch models of different sizes and depths
@@ -140,6 +140,12 @@ Each experiment includes:
 * Training and validation curves
 * Decision region plot
 
+#### Experiment 1 Architecture: (2 → 4 → 1) accuracy: 0.575
+#### Experiment 2 Architecture: (2 → 16 → 16 → 1) accuracy: 0.85
+#### Experiment 3 Architecture: (2 → 3 → 3 → 3 → 3 → 1) accuracy: 0.4938
+#### Experiment 4 Architecture: (2 → 2 → 1) accuracy: 0.525
+#### Experiment 5 Architecture: (2 → 32 → 32 → 16 → 16 → 8 → 1) accuracy: 0.8750
+
 This gives a clear comparison of how architecture size affects performance.
 
 ---
@@ -154,6 +160,7 @@ This notebook is excellent for beginners learning:
 * How to visualize learned decision regions
 
 ---
+
 
 ## ✔️ Final Notes
 
